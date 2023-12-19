@@ -30,6 +30,10 @@ Include the following information to help us replicate the environment in which 
 - **Copilot Version:** Mention the version number of Copilot.
 - **Additional information:** Is there anything else you can add about the proposal?
 
+#### Obtaining Version Numbers
+
+To get the version numbers for Vaadin, Hilla, the operating system, and your browser, you can simply use the left side panel, when Copilot is activated. This panel will contain all the version numbers, along with the Copilot version.
+
 ### Additional Information
 
 If possible, add screenshots or videos to provide visual context to the issue. This can often help clarify the problem more than text descriptions alone.
@@ -39,8 +43,8 @@ If possible, add screenshots or videos to provide visual context to the issue. T
 - Ensure the screenshots/videos clearly show the issue.
 - Annotate screenshots if necessary to point out relevant areas.
 
-### Example Issue Report
+### Example Ideal Issue Reports
 - https://github.com/vaadin/copilot/issues/3
 - https://github.com/vaadin/copilot/issues/4
 
-By following these guidelines, you can help us quickly and effectively
+By following these guidelines, you can help us to be quick and effective solving your isssues :bow:
