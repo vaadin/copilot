@@ -40,7 +40,7 @@ If possible, add screenshots or videos to provide visual context to the issue. T
 - Annotate screenshots if necessary to point out relevant areas.
 
 ### Example Issue Report
-- #1
-- #2
+- https://github.com/vaadin/copilot/issues/3
+- https://github.com/vaadin/copilot/issues/4
 
 By following these guidelines, you can help us quickly and effectively
