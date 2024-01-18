@@ -6,7 +6,7 @@ To help us understand and resolve issues more efficiently, please follow these g
 
 Please provide a clear and detailed step-by-step description of how to reproduce the issue. 
 
-For example (Leigoth's issue report)
+For example (Legioth's issue report)
 
 1. Double-click on a text element to enable the inline editor.
 2. Type in the new text.
